@@ -8,7 +8,7 @@ In the following, theory and work progress are documented.
 
 ## Log file
 #### Task distribution of March 3, 2020
-- [ ] Wiki einrichten + Log (Simon)
+- [x] Wiki einrichten + Log (Simon)
 - [ ] Git Repo (Roger)
 -> hist, modell ordner
 - [ ] Python Script für Google API Anfrage (Alex)
