@@ -18,3 +18,7 @@ In the following, theory and work progress are documented.
 - [ ] Netzwerkt trainieren mit neuen Images (Roger, Alex)
 - [ ] Performance anpassen intersection over union (Jaccard) pro Klasse (Simon, Alex)
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
