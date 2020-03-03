@@ -1,12 +1,13 @@
 # Wiki RPG Masterproject
 
-This is a test file
+In the following, theory and work progress are documented.
 
 ## Theory
-
+- make description about NN architecture
+- make description about performance evaluation metrics
 
 ## Log file
-Task distribution of March 3, 2020
+#### Task distribution of March 3, 2020
 - Wiki einrichten + Log (Simon)
 - Git Repo (Roger)
 -> hist, modell ordner
