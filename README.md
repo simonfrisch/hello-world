@@ -5,7 +5,7 @@ In this document, work progress, discussions and theory are documented.
 
 
 [Headers](#headers)  
-[Emphasis](#emphasis)  
+[Issues and questions](#issues-and-questions)  
 ...snip...    
 <a name="headers"/>
 
