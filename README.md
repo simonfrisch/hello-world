@@ -2,6 +2,15 @@
 
 In this document, work progress, discussions and theory are documented.
 
+
+
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+
+
+
 ## Issues and questions
 Issues | Urgency | Comments
 ------------ | ------------- | -------------
