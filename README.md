@@ -3,12 +3,10 @@
 In this document, work progress, discussions and theory are documented.
 
 
-
-[Headers](#headers)  
 [Issues and questions](#issues-and-questions)  
-...snip...    
+[Theory](#theory)
+[Log file](#log-file)
 <a name="headers"/>
-
 
 
 ## Issues and questions
