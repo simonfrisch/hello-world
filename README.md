@@ -1,6 +1,6 @@
 # Wiki RPG Masterproject
 
-In the following, theory and work progress are documented.
+In this document, work progress, discussions and theory are documented.
 
 ## Issues and questions
 Issues | Urgency | Comments
@@ -15,6 +15,7 @@ How can we measure performance? Should we treat differnt kinds of errors differe
 ## Theory
 - make description about NN architecture
 - make description about performance evaluation metrics (Intersection over Union (IoU))
+
 
 ## Log file
 #### Task distribution of week 3 (March 3, 2020)
