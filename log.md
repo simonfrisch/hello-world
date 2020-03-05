@@ -1,4 +1,7 @@
 ## Log file
+
+In this file, the tasks and activities are documented.
+
 #### Task distribution of week 3 (March 3, 2020)
 - [x] Wiki einrichten + Log (Simon)
 - [ ] Git Repo (Roger)
