@@ -1,6 +1,6 @@
 # Wiki RPG Masterproject
 
-In this document, work progress, discussions and theory are documented.
+In this document, insights, discussions and theory are documented.
 
 ## Issues and questions
 Issues | Urgency | Comments
