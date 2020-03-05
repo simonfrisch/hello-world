@@ -4,7 +4,7 @@ In this document, work progress, discussions and theory are documented.
 
 
 [Issues and questions](#issues-and-questions)  
-[Theory](#theory)
+[Theory](#theory)  
 [Log file](#log-file)
 <a name="headers"/>
 
